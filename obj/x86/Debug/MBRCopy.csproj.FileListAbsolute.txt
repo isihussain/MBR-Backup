@@ -1,0 +1,9 @@
+E:\Project\MBRCopy\MBRCopy\bin\Debug\MBRCopy.exe
+E:\Project\MBRCopy\MBRCopy\bin\Debug\MBRCopy.pdb
+E:\Project\MBRCopy\MBRCopy\obj\x86\Debug\MBRCopy.exe
+E:\Project\MBRCopy\MBRCopy\obj\x86\Debug\MBRCopy.pdb
+C:\Users\Rudnight\Desktop\MBRCopy\MBRCopy\bin\Debug\MBRCopy.exe
+C:\Users\Rudnight\Desktop\MBRCopy\MBRCopy\bin\Debug\MBRCopy.pdb
+C:\Users\Rudnight\Desktop\MBRCopy\MBRCopy\obj\x86\Debug\MBRCopy.csprojAssemblyReference.cache
+C:\Users\Rudnight\Desktop\MBRCopy\MBRCopy\obj\x86\Debug\MBRCopy.exe
+C:\Users\Rudnight\Desktop\MBRCopy\MBRCopy\obj\x86\Debug\MBRCopy.pdb
