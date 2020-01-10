@@ -8,7 +8,7 @@
         {
             Console.Title = "MBR Backup by r3xq1";
             MBRoot.Inizialize("mbr.img");
-            ConsoleKeyInfo unused = Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
